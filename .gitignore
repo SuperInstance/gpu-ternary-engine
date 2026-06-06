@@ -1,1 +1,3 @@
 # gpu-ternary-engine
+target/
+Cargo.lock
